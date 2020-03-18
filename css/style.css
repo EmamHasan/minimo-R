@@ -1,0 +1,170 @@
+.menu {
+    font-size: 14pt;
+    text-transform: uppercase;
+    color: #626262!important;
+    font-weight: 400;
+    padding-left: 40px;
+}
+
+.img img {
+    width: 100%;
+}
+
+.navbar {
+    padding: 30px 0px!important;
+}
+
+.photodiary1 {
+    width: 90%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.photodiary1 h4 {
+    text-transform: uppercase;
+    color: #b4ad9e;
+    font-size: 14pt;
+}
+
+.photodiary1 h1 {
+    font-size: 30pt;
+    color: #626262;
+    margin: 0;
+    padding-top: 15px;
+}
+
+.photodiary1 p {
+    font-size: 14pt;
+    color: #626262;
+    padding: 40px 0;
+}
+
+.photodiary {
+    width: 90%;
+    margin: auto;
+}
+
+.raf {
+    padding-top: 100px;
+}
+
+.item {
+    padding-bottom: 50px;
+}
+
+.item h4 {
+    text-transform: uppercase;
+    font-size: 14pt;
+    color: #b4ad9e;
+    padding: 15px 0;
+}
+
+.item h1 {
+    font-size: 30pt;
+    color: #626262;
+    padding-bottom: 35px;
+}
+
+.item p {
+    font-size: 14pt;
+    color: #626262;
+}
+
+.items {}
+
+.items img {
+    width: 100%;
+}
+
+.newsletter {
+    background-color: #f0f0f0;
+}
+
+.raw {
+    min-height: 200px;
+    align-items: center;
+}
+
+.sign {
+    text-align: center;
+}
+
+.sign h1 {
+    font-size: 30pt;
+    color: #333333;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.sign input {
+    margin-bottom: 50px;
+}
+
+.load {
+    align-items: center;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.load a {
+    border: 1px solid #000;
+    padding: 10px 20px;
+    font-size: 20pt;
+    color: #626262;
+    text-decoration: none;
+}
+
+.load a:hover {
+    background-color: #626262;
+    color: #ffffff;
+}
+
+footer {
+    background-color: #f0f0f0;
+    min-height: 50px;
+}
+
+.footer {
+    width: 90%;
+    margin: auto;
+}
+
+.foot {
+    align-items: center;
+    min-height: 50px;
+}
+
+.term {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0;
+}
+
+.term a {
+    color: #666;
+}
+
+.term a:hover {
+    color: #8BC34A;
+}
+
+.follow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 0;
+}
+
+.follow p {
+    color: #666;
+    margin: 0;
+}
+
+.follow a {
+    color: #666
+}
+
+.follow a:hover {
+    color: #5cccff;
+}
