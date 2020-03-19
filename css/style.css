@@ -98,6 +98,9 @@
 
 .sign input {
     margin-bottom: 50px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid;
 }
 
 .load {
